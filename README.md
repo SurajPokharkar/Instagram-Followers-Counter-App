@@ -1,5 +1,5 @@
 # Instagram-Followers-Counter-App
-Counter App using Javascript
+Counter App using Html, CSS and Javascript
 
 # Instagram Followers Counter
 
