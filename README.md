@@ -1,9 +1,8 @@
-# Instagram-Followers-Counter-App
-Counter App using Html, CSS and Javascript
-
 # Instagram Followers Counter
 
 This is a simple JavaScript application that displays a counter of Instagram followers. The counter starts at 1 and increments until it reaches 1000. Additionally, after 12 seconds, a message is displayed congratulating the user on reaching followers on Instagram.
+
+You can access the live app [here](https://jolly-squirrel-8f48b1.netlify.app).
 
 ## Table of Contents
 
@@ -28,4 +27,5 @@ This is a simple JavaScript application that displays a counter of Instagram fol
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
